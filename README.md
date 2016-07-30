@@ -1,6 +1,6 @@
 # golatch1
 
-[![Build Status](https://travis-ci.org/amassanet/golatch1.svg)](https://travis-ci.org/amassanet/golatch1)
+[![Build Status](https://travis-ci.org/adriamb/golatch1.svg)](https://travis-ci.org/adriamb/golatch1)
 
 Eleven paths Latch minimum client in golang
 
